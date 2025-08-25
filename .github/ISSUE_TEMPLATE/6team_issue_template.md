@@ -1,5 +1,5 @@
 ---
-name: 6team_issume_template
+name: 6team_issue_template
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
